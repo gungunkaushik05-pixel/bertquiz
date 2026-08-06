@@ -1,4 +1,4 @@
-# Quizify
+# bertquiz
 
 A modern quiz application built with React.
 
